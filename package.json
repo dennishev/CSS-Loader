@@ -1,0 +1,19 @@
+{
+  "name": "css-loader",
+  "version": "1.0.0",
+  "description": "Css Loader landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennishev/CSS-Loader.git"
+  },
+  "author": "Dennis Patrushev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dennishev/CSS-Loader/issues"
+  },
+  "homepage": "https://github.com/dennishev/CSS-Loader#readme"
+}
